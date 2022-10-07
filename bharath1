@@ -2,5 +2,9 @@ hi
 hello
 this is bharathsh
 this is shivaprakash
+<<<<<<< HEAD
 this is win
 
+=======
+this is manoj
+>>>>>>> c794b94735e1d85c58f2ae9371024cb359f9d7dd
